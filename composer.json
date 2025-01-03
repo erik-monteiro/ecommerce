@@ -30,7 +30,7 @@
         }
     },
     "autoload-dev": {
-        "psr-4": { vbgG3v1jJ2
+        "psr-4": {
             "Tests\\": "tests/"
         }
     },
